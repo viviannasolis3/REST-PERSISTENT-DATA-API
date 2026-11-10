@@ -1,0 +1,28 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# JSON Lines patient data
+data/*.jsonl
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
